@@ -9,5 +9,9 @@
     "@type" : null,
     "@id" : "https://TheoBurnel.github.io/Latin9389-v4/manifests/manifest.json",
     "label" : "BnF. Département des Manuscrits. Latin 9389"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Latin9389-v4/manifests/manifest2.json",
+    "label" : "BnF. Département des Manuscrits. Latin 9389"
   } ]
 }
