@@ -1,0 +1,13 @@
+{
+  "id" : "https://TheoBurnel.github.io/Latin9389-v4/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TheoBurnel/Latin9389-v4 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : null,
+    "@id" : "https://TheoBurnel.github.io/Latin9389-v4/manifests/manifest.json",
+    "label" : "BnF. Département des Manuscrits. Latin 9389"
+  } ]
+}
