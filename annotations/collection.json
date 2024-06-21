@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Latin9389-v4/annotations/f69.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f65.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f36.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f29.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f28.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f21.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Latin9389-v4/annotations/f65.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f36.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f29.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f28.json", "https://TheoBurnel.github.io/Latin9389-v4/annotations/f21.json" ],
   "@id" : "https://TheoBurnel.github.io/Latin9389-v4/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Latin9389-v4 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
